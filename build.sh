@@ -1,4 +1,3 @@
-
 #sync rom
 repo init --depth=1 --no-repo-verify -u https://github.com/Corvus-AOSP/android_manifest.git -b 13 -g default,-mips,-darwin,-notdefault
 git clone https://github.com/yanzszs/local_manifest --depth 1 -b whyred-corvus-13 .repo/local_manifests
