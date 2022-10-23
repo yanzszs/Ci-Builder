@@ -14,4 +14,4 @@ export BUILD_HOSTNAME=jenkins
 # export USE_MICROG=true
 # export TARGET_USES_MINI_GAPPS=true
 mka corvus -j8
-# build CorvusOS 
+# build CorvusOS 13
